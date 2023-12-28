@@ -1,1 +1,1 @@
-# Portscanner-tool
+This is a simple portscanner tool that I made using Python. It is a simple sample of a typical portscanner although it might not be that powerful and slow. Further modification can be to make it excellent.
